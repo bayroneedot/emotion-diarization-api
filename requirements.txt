@@ -2,3 +2,4 @@ pyAudioAnalysis
 numpy
 scipy
 matplotlib
+scikit-learn
