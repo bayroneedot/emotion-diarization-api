@@ -2,4 +2,3 @@ pyAudioAnalysis
 numpy
 scipy
 matplotlib
-pyaudio
